@@ -6,13 +6,6 @@
 #include "save.h"
 #include "game.h"
 
-#include <iostream>
-#include <array>
-#include <vector>
-#include <utility>
-#include <random>
-
-
 int main()
 {
 	Player player{ loadPlayer() };

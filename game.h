@@ -2,7 +2,6 @@
 #define GAME_H
 
 #include "constants.h"
-#include "input.h"
 
 void getAverageBet(Player* player);
 

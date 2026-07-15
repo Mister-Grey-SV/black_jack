@@ -1,4 +1,5 @@
 #include "navigation.h"
+#include "visual.h"
 #include "input.h"
 #include "save.h"
 #include "game.h"
